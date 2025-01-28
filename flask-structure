@@ -1,0 +1,25 @@
+Necessities for flask e-commerce
+dependencies
+0. flask
+1. flask-login
+2. flas-sqlalchemy
+
++-- website/
+  +-- static/
+    +--css
+      all.min.css
+      bootstrap.min.css
+      style.css
+      owl.carousel.min.css
+    +--images
+    +--js
+      all.min.js
+      jquery.js
+      owl.carousel.min.js
+  +-- templates/
+  __init__.py
+  admin.py
+  auth.py
+  views.py
+  forms.py
+  models.py
